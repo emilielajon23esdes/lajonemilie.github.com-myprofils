@@ -1,0 +1,79 @@
+body {
+	background-color: lightcoral;
+	color:  #2204fa;
+	font-family: fantasy;
+}
+
+h1 {
+	color: yellow;
+	font-family: inherit;
+	font-weight: 600;
+	letter-spacing: 10px;
+	font-size: 35px;
+	text-transform: full-width;
+	line-height: 1;
+	font-style: italic;
+}
+
+h2, h3, h4{
+	font-family: courier;
+	color: #56e8fa;
+	font-size: 32px;
+	font-weight: 700;
+}
+
+.btn-orange{
+	background-color: yellow;
+	color: #2204fa;
+	padding: 10px 20px;
+	font-weight: bold;
+	border-radius: 4px;
+}
+
+.container{
+	width: 800px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+
+i{
+	font-size: 50px;
+}
+
+a {
+	text-decoration: none;
+	color: #2204fa;
+}
+a:hover {
+	color:  hotpink;
+}
+
+.card-blue {
+	background-color: whitesmoke;
+	padding: 30px;
+	margin: 20px 0;
+	box-shadow: 10px 35px 20px rgba(0,0,0,0.1);
+	border-radius:  5px;
+}
+
+.img-circle{
+	border-radius: 30%;
+}
+
+
+.list-inline ul {
+	list-style: none ;
+}
+
+.btn-white{
+    background-color: yellow;
+    color: #2204fa;
+    padding: 10px 20px;
+    font-weight: bold;
+    border-radius: 4px;
+}
+
+.list-inline li {
+	display: inline;
+}
